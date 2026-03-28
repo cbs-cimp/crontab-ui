@@ -12,13 +12,13 @@
     "connect-busboy": "latest",
     "cron-parser": "latest",
     "cronstrue": "latest",
-    "ejs": "latest",
-    "express": "latest",
+    "ejs": "5.0.1",
+    "express": "4.22.0",
     "express-basic-auth": "^1.2.0",
     "mime-types": "latest",
     "moment": "latest",
     "nedb": "latest",
-    "nodemailer": "latest"
+    "nodemailer": "8.0.4"
   },
   "engines": {
     "node": "latest"
